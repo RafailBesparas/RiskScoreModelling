@@ -28,7 +28,7 @@
 17. TotalDebtToIncomeRatio: A more comprehensive debt-to-income ratio, factoring in all liabilities.
 18. UtilityBillsPaymentHistory: Payment history for utility bills (e.g., consistent, delayed).
 19. BankruptcyHistory: Indicates if the applicant has a history of bankruptcy (Yes/No).
-20 .PreviousLoanDefaults: Number of past loan defaults.
+20. PreviousLoanDefaults: Number of past loan defaults.
 # Credit Profile:
 1. CreditScore: Applicant's credit score.
 2. PaymentHistory: History of payments on previous loans (e.g., On-time, Late, Defaulted).
