@@ -1,5 +1,5 @@
 # Case Study
-Objective: Predict RiskScore to assess loan default or financial instability.
+Objective: Predict RiskScore to assess loan default or financial instability. Developing a RiskScore model to help a bank assess creditworthiness more effectively
 
 # Personal and Demographic Details:
 1. ApplicationDate: The date the loan application was submitted.
