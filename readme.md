@@ -1,3 +1,6 @@
+# Case Study
+Objective: Predict RiskScore to assess loan default or financial instability.
+
 # Personal and Demographic Details:
 1. ApplicationDate: The date the loan application was submitted.
 2. Age: Applicant's age.
