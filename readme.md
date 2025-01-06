@@ -1,5 +1,7 @@
-# Please check the file Riskscore.ipynb is the complete project
-# The other files are the experiments with tensorflow
+ 
+Please check the file Riskscore.ipynb is the complete project
+
+The other files are the experiments with TensorFlow and machinelearning
 
 # Case Study
 Objective: Predict RiskScore to assess loan default or financial instability. Developing a RiskScore model to help a bank assess creditworthiness more effectively
